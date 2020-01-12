@@ -15,8 +15,3 @@ class Apple extends Fruit {
     }
 }
 
-//    Apple (klasa reprezentująca jabłko, dziedzicząca po klasie Fruit).
-//    W klasie zdefiniuj konstruktor, który pozwoli ustawić wagę i odmianę jabłka.
-//    Typ owocu powinien być zawsze ustawiany na "jabłkowaty".
-//    Nadpisz metodę getInfo(), która zwróci napis zawierający informacje o typie owocu, wadze i odmianie jabłka.
-//        Zarówno w konstruktorze jak i metodzie getInfo() wykorzystaj słowo super.
