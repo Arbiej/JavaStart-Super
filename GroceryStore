@@ -1,0 +1,7 @@
+class GroceryStore {
+    public static void main(String[] args) {
+
+        Apple apple=new Apple(45.2,"szampion");
+        System.out.println( apple.getInfo());
+    }
+}
